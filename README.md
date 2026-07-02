@@ -5,9 +5,7 @@ A running log of hands-on Excel/Power BI work completed as part of a self-paced,
 DAX, and dashboard design — built toward Data Analyst / BI Developer roles.
 
 Each entry is a practice exercise from a guided curriculum, not a client or 
-production deliverable. The goal here is consistent, self-directed skill-building — 
-for original analytical project work, see [link to your Customer Profitability 
-Dashboard repo/portfolio, if you have one].
+production deliverable. The goal here is consistent, self-directed skill-building.
 
 ## Entries
 
